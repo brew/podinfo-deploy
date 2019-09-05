@@ -1,0 +1,1 @@
+{"jobID":"03a32545-a92d-e782-2f71-53dd55965355","spec":{"type":"policy","cause":{"Message":"","User":"Brook Elgie \u003cspecialbrew@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
