@@ -24,9 +24,9 @@ spec:
       containers:
       - name: metricsd
         image: quay.io/brice/metrics-demo:latest
-        command:
-        # - ./podinfo
-        - --port=3000
+        # command:
+        # # - ./podinfo
+        # - --port=3000
         ports:
         - containerPort: 3000
         readinessProbe:
